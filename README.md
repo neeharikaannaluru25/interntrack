@@ -92,7 +92,7 @@ This Vite app is configured for Vercel with `vercel.json`:
 - Output directory: `dist`
 - Environment variables: none
 
-Production URL: [interntrack-rosy-eight.vercel.app](https://interntrack-rosy-eight.vercel.app/). The current production build was deployed with the Vercel CLI. The Vercel GitHub integration could not yet be connected, so pushes do not trigger automatic deployments until that repository access is authorized in Vercel.
+Production URL: [interntrack-neeharika.vercel.app](https://interntrack-neeharika.vercel.app/). The current production build was deployed with the Vercel CLI. The Vercel GitHub integration could not yet be connected, so pushes do not trigger automatic deployments until that repository access is authorized in Vercel.
 
 ## Future improvements
 
@@ -106,4 +106,4 @@ Production URL: [interntrack-rosy-eight.vercel.app](https://interntrack-rosy-eig
 
 - Author: [neeharikaannaluru25](https://github.com/neeharikaannaluru25)
 - GitHub repository: [github.com/neeharikaannaluru25/InternTrack](https://github.com/neeharikaannaluru25/interntrack)
-- Live deployment: https://interntrack-rosy-eight.vercel.app/
+- Live deployment: https://interntrack-neeharika.vercel.app/
