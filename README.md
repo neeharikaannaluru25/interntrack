@@ -25,7 +25,7 @@ InternTrack puts the search workflow in a small personal workspace: browse and f
 
 ## Screenshots
 
-A screenshot was not included with the source. Add a current dashboard screenshot here after the public deployment is verified.
+The dashboard and opportunity explorer were checked in the browser after deployment. A screenshot file is not included in this repository yet.
 
 ## Technology
 
@@ -92,7 +92,7 @@ This Vite app is configured for Vercel with `vercel.json`:
 - Output directory: `dist`
 - Environment variables: none
 
-Connect the GitHub repository `neeharikaannaluru25/InternTrack` to a Vercel project, or deploy with the Vercel CLI. A production URL will be added here after deployment and public verification.
+Production URL: [interntrack-rosy-eight.vercel.app](https://interntrack-rosy-eight.vercel.app/). The current production build was deployed with the Vercel CLI. The Vercel GitHub integration could not yet be connected, so pushes do not trigger automatic deployments until that repository access is authorized in Vercel.
 
 ## Future improvements
 
@@ -105,5 +105,5 @@ Connect the GitHub repository `neeharikaannaluru25/InternTrack` to a Vercel proj
 ## Author and links
 
 - Author: [neeharikaannaluru25](https://github.com/neeharikaannaluru25)
-- GitHub repository: [github.com/neeharikaannaluru25/InternTrack](https://github.com/neeharikaannaluru25/InternTrack)
-- Live deployment: pending Vercel authorization and verification.
+- GitHub repository: [github.com/neeharikaannaluru25/InternTrack](https://github.com/neeharikaannaluru25/interntrack)
+- Live deployment: https://interntrack-rosy-eight.vercel.app/
